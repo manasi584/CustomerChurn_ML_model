@@ -1,5 +1,5 @@
 ## Customer Churn Prediction Model using Random Forest
-This project develops a predictive model to anticipate customer churn for a telecom company using machine learning techniques, specifically Random Forest. The model uses customer demographics, usage patterns, and service interaction data to predict whether a customer is likely to churn.
+This project develops a predictive model to anticipate customer churn for a telecom company using machine learning techniques, specifically Random Forest. The model uses customer demographics, usage patterns, and service interaction data to predict whether a customer is likely to churn with an accuracy of approximately 79%.
 
 #### Requirements:
 - Python 3.9
